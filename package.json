@@ -15,11 +15,16 @@
     "url": "https://github.com/mojodna/tilelive-utfgrid.git"
   },
   "devDependencies": {
-    "tilelive": "^4.5.3",
-    "mbtiles": "^0.2.9",
-    "mocha": "^1.18.0",
     "async": "^0.2.10",
-    "tilelive-cache": "mojodna/tilelive-cache"
+    "mbtiles": "^0.8.2",
+    "mocha": "^1.18.0",
+    "sqlite3": "^3.1.1",
+    "tilelive": "^5.12.1",
+    "tilelive-bridge": "^2.2.3",
+    "tilelive-cache": "mojodna/tilelive-cache",
+    "tilelive-tmsource": "^0.4.3",
+    "tilelive-tmstyle": "^0.5.1",
+    "tilelive-vector": "^3.8.0"
   },
   "jshintConfig": {
     "node": true,
